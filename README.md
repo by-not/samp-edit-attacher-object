@@ -28,7 +28,7 @@
 - [Conceptos básicos](#conceptos-básicos)
 - [Comandos](#comandos)
 - [Flujo de trabajo típico](#flujo-de-trabajo-típico)
-- [Menú principal (`/attobjedit`)](#menú-principal-attobjedit)
+- [Menú principal (comando `/attobjedit`)](#menú-principal-attobjedit)
 - [Acciones de un slot](#acciones-de-un-slot)
 - [Nombres personalizados de modelos](#nombres-personalizados-de-modelos)
 - [Exportación e importación](#exportación-e-importación)
