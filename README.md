@@ -5,14 +5,14 @@
 <h1 align="center">EditAttacherObject</h1>
 
 <p align="center">
-  <a href="https://github.com/by-not/samp-editattacher/releases">
-    <img src="https://img.shields.io/github/v/release/by-not/samp-editattacher?style=for-the-badge&color=blue" alt="Latest Release" />
+  <a href="https://github.com/by-not/samp-edit-attacher-object/releases">
+    <img src="https://img.shields.io/github/v/release/by-not/samp-edit-attacher-object?style=for-the-badge&color=blue" alt="Latest Release" />
   </a>
-  <a href="https://github.com/by-not/samp-editattacher/releases">
-    <img src="https://img.shields.io/github/downloads/by-not/samp-editattacher/total?style=for-the-badge&color=brightgreen" alt="Total Downloads" />
+  <a href="https://github.com/by-not/samp-edit-attacher-object/releases">
+    <img src="https://img.shields.io/github/downloads/by-not/samp-edit-attacher-object/total?style=for-the-badge&color=brightgreen" alt="Total Downloads" />
   </a>
   <img src="https://img.shields.io/badge/Language-Pawn-orange?style=for-the-badge" alt="Pawn Language" />
-  <img src="https://img.shields.io/github/license/by-not/samp-editattacher?style=for-the-badge&color=gray" alt="License" />
+  <img src="https://img.shields.io/github/license/by-not/samp-edit-attacher-object?style=for-the-badge&color=gray" alt="License" />
 </p>
 
 <p align="center">
